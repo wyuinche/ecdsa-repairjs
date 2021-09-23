@@ -1,0 +1,28 @@
+{
+  "name": "ether-restorejs",
+  "version": "1.0.0",
+  "description": "ecdsa public key restore javascript package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyuinche/ether-restorejs.git"
+  },
+  "keywords": [
+    "ethereum"
+  ],
+  "author": "wyuinche",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/wyuinche/ether-restorejs/issues"
+  },
+  "homepage": "https://github.com/wyuinche/ether-restorejs#readme",
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "ethers": "^5.4.7",
+    "keccak256": "^1.0.3",
+    "web3": "^1.5.3"
+  }
+}
